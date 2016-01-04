@@ -10,6 +10,8 @@
     background_image = None
     cursor_color = "#dcdcdc"
     foreground_color = "#dcdcdc"
+    use_system_font = False
+    font = Droid Sans Mono 11
 [layouts]
   [[default]]
     [[[child1]]]
